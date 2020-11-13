@@ -1,7 +1,4 @@
 /*
- * Name: Natalia Usoltseva
- * UPI:  nuso101
- * ID: 416666305
  *  ==========================================================================================
  *	MovingCircle.java : subclass of the MovingEllipse class that draws a circle based on the 
  *	mouse-point, width, height, border colour, fill colour, moving path.

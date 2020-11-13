@@ -1,7 +1,4 @@
 /*
- * Name: Natalia Usoltseva
- * UPI:  nuso101
- * ID: 416666305
  *  ==========================================================================================
  *	MovingPixelArt.java : subclass of the MovingSquare class that draws a pixel art that looks  
  *	like a Christmas tree based on the mouse-point, width, height, fill colour, moving path.

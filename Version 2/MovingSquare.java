@@ -1,7 +1,4 @@
 /*
- * Name: Natalia Usoltseva
- * UPI:  nuso101
- * ID: 416666305
  *  ==========================================================================================
  *	MovingSquare.java : subclass of the MovignRectangle class that draws a square based on the 
  *	mouse-point, width, height, border colour, fill colour, moving path.

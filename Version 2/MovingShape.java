@@ -1,6 +1,4 @@
-/*	Name: Natalia Usoltseva
- * 	UPI:  nuso101
- * 	ID: 416666305
+/*
  *	===============================================================================
  *	MovingShape.java : The superclass of all shapes.
  *	A shape has a point (top-left corner).

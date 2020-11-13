@@ -1,7 +1,4 @@
 /*
- * Name: Natalia Usoltseva
- * UPI:  nuso101
- * ID: 416666305
  *  ==========================================================================================
  *	MovingRectangle.java : subclass of the MovingShape class that draws a rectangle based on the 
  *	mouse-point, width, height, border colour, fill colour, moving path.

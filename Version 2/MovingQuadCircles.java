@@ -1,7 +1,4 @@
 /*
- * Name: Natalia Usoltseva
- * UPI:  nuso101
- * ID: 416666305
  *  ==========================================================================================
  *	MovingQuadCircles.java : subclass of the MovingRectangle class that draws 4 circles that 
  *	Intersect with its neighbor circle based on the mouse-point, width, height, border colour,

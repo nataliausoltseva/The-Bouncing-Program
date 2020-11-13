@@ -1,7 +1,4 @@
 /*
- * Name: Natalia Usoltseva
- * UPI:  nuso101
- * ID: 416666305
  *	==========================================================================================
  *	AnimationPanel.java : Moves shapes around on the screen according to different paths.
  *	It is the main drawing area where shapes are added and manipulated.

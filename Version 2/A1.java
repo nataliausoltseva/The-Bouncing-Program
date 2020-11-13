@@ -1,6 +1,4 @@
-/*	Name: Natalia Usoltseva
- * 	UPI:  nuso101
- * 	ID: 416666305
+/*
  *	============================================================================================
  *	A1.java : Extends JFrame and contains a panel where shapes move around on the screen.
  *	Also contains start and stop buttons that starts animation and stops animation respectively.
